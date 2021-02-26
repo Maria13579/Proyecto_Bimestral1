@@ -1,24 +1,27 @@
 p{
     font-family: 'Times New Roman';
     text-align: justify;
+    margin:5px;
 }
 img{
     height: 400px;
     width: 600px;
-    margin: 20px;
+    margin: 85px;
  
 }
+h2{
+    margin: 10px;
+    font-size: 35px;
+    font-family:'Times New Roman';
+}
+
 html{
     background-color: lightslategray;
 }
-#contenedor1 
-{
-    background-color:aquamarine;
-    margin: 5px;
-}
+
 #contenedor2 
 {
-    background-color:coral;
+    background-color:aquamarine;
     margin: 5px;
 }
 #contenedor3
@@ -34,7 +37,19 @@ html{
 #cabecera
 {
     background-color:aqua;
-    width: 100%;
-    height: 60px;
     text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    height: 100px;
+    width: 99.3%;
+    margin: 5px;
+
+}
+a{
+    margin: 10px;
+}
+#pie{
+    clear: both;
+    background-color: aqua;
+    margin: 5px;;
 }
