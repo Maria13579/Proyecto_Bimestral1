@@ -31,7 +31,27 @@ html{
 }
 #contenedor4
 {
-    background-color: lightblue;
+    background-color: rgb(157, 220, 241);
+    margin: 5px;
+}
+#contenedor5
+{
+    background-color: rgb(47, 175, 218);
+    margin: 5px;
+}
+#contenedor6
+{
+    background-color: rgb(11, 165, 216);
+    margin: 5px;
+}
+#contenedor7
+{
+    background-color: rgb(23, 149, 190);
+    margin: 5px;
+}
+#contenedor8
+{
+    background-color: rgb(1, 185, 247);
     margin: 5px;
 }
 #cabecera
